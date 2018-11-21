@@ -1,0 +1,27 @@
+{
+  "name": "neeta",
+  "displayName": "neeta",
+  "description": "neeta dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "neeta dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neeta-dark.json"
+      }
+    ]
+  },
+  "publisher": "BilalArxd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BilalArxd/neeta-dark"
+  }
+}
